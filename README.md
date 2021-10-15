@@ -187,6 +187,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *Tools for building blockchains.*
 
 * [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - A Framework for Building Public Blockchains in the Cosmos Ecosystem.
+* [gochain](https://github.com/gochain/gochain) - The Official Go implementation of the GoChain protocol.
 * [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol.
 * [gossamer](https://github.com/ChainSafe/gossamer) - A Go implementation of the Polkadot Host
 * [Go Substrate RPC Client (GSRPC)](https://github.com/centrifuge/go-substrate-rpc-client) - Substrate RPC client in Go.
